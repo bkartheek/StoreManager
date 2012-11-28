@@ -1,0 +1,4 @@
+StoreManager
+============
+
+Store Management Software
