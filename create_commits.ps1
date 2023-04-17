@@ -1,5 +1,5 @@
 
-for (($i = 0); $i -lt 10; $i++) {
+for (($i = 0); $i -lt 1000; $i++) {
   date >> readme.txt
   git add .
   git commit -m "Commit"
