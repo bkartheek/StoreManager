@@ -8,6 +8,7 @@ DB-176
 jello 
 DB 178 
 I am doing conflicts
+
 '''mermaid
 sequenceDiagram
     Alice ->> Bob: Hello Bob, how are you?
@@ -17,4 +18,8 @@ sequenceDiagram
     Note right of John: Bob think
     Bob-->Alice: Checking with John...
     Alice->John: Yes... John, how are you?
+'''
+
+'''js
+var I
 '''
